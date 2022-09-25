@@ -84,7 +84,7 @@ To contribute:
  | Name  |  Location |  Application Period |  Notes |
  |---|---|---|---|
   |  [Aviva](https://careers.avivacanada.com/career-levels/starting-your-career) |  Toronto, Montreal |  |  Closes Mid-March |
-   |  [Interac](https://interac.applytojob.com/apply) |  Toronto |    |  Closes Mid-February | |
+   |  [Interac](https://interac.applytojob.com/apply) |  Toronto |    |  Closes Mid-February (Not available) | | 
  |  [Loblaw Digital](https://jobs.lever.co/loblawdigital) |  Toronto | |   |
  |  [NanoLeaf](https://www.indeedjobs.com/nanoleaf/jobs) |  Toronto |   |  Hardware and Software Internships |
  |  [State Street](https://statestreet.wd1.myworkdayjobs.com/Global/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  Toronto | |  Closes Mid-February |
